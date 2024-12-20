@@ -1,7 +1,9 @@
 #Overview of the NLP Task
+
 This assignment explores key concepts and methods in natural language processing, leveraging Python-based libraries such as NLTK, spaCy, Sumy, and others. It is divided into multiple tasks, each focusing on a specific aspect of NLP. The aim is to analyze textual data, extract insights, and demonstrate the practical applications of NLP techniques.
 
 ##Task Summaries
+
 ###1. Sentiment Analysis
 Objective: Analyze the sentiment (positive, negative, or neutral) of textual data.
 Implementation: Used libraries like NLTK to preprocess text, tokenize it, and apply sentiment analysis models.
